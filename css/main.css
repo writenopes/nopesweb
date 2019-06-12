@@ -17,6 +17,21 @@ html {
   line-height: 1.4;
 }
 
+a {
+  color: #202020;
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 1px solid black;
+}
+
+li {
+  padding-bottom: 3px;
+}
+
+ul {
+  list-style-type: square;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
