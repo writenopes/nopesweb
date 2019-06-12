@@ -22,10 +22,11 @@ a {
   text-decoration: none;
   padding-bottom: 1px;
   border-bottom: 1px solid black;
+  font-size: 0.8rem;
 }
 
 li {
-  padding-bottom: 3px;
+  padding-bottom: 5px;
 }
 
 ul {
