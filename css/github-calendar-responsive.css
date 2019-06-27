@@ -4,8 +4,7 @@
     border-radius: 3px;
     min-height: 243px;
     text-align: center;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 20px auto;
 }
 
 .calendar-graph text.wday,
