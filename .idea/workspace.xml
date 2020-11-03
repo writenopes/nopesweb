@@ -40,12 +40,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
@@ -105,7 +109,10 @@
       <workItem from="1602295746574" duration="1870000" />
       <workItem from="1602479420426" duration="661000" />
       <workItem from="1602530959009" duration="683000" />
-      <workItem from="1602537357526" duration="1987000" />
+      <workItem from="1602537357526" duration="3218000" />
+      <workItem from="1603774129120" duration="842000" />
+      <workItem from="1604167637849" duration="93000" />
+      <workItem from="1604361928514" duration="762000" />
     </task>
     <servers />
   </component>
